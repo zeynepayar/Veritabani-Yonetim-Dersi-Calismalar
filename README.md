@@ -1,2 +1,2 @@
-# Veritaban-Y-netim-Dersi-al-malar
+# Veritabani Yonetim Dersi Calismalar
 Veri tabanı yönetim dersinde haftalık olarak yaptığım çalışmalar.
